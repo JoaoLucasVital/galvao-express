@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+
+# tests and logs
+/coverage
+*.log
+
+# local secrets
+.env*
+!.env.example
+
+# hosting metadata
+.vercel
+.netlify
+
+# local project coordination (not part of the public product)
+.superpowers/
+docs/superpowers/
+PROJECT_CONTEXT.md
+HANDOFF_PROJETO.md
+
+# operating system and TypeScript
+.DS_Store
+*.pem
+next-env.d.ts

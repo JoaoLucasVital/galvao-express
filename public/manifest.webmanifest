@@ -1,0 +1,12 @@
+{
+  "name": "Galvão Express — Central de Operação",
+  "short_name": "Galvão",
+  "description": "Gestão inteligente de fretes, resultados e manutenção.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef4f8",
+  "theme_color": "#061b33",
+  "categories": ["business", "productivity"]
+}
